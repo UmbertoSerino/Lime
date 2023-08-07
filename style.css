@@ -1,0 +1,65 @@
+body{
+    background-image: url(background.jpg);
+    box-sizing: border-box;
+    background-size: cover;
+}
+
+#Corpo{ /* Tutto il riquadro */
+    background-color: rgba(0,0,0,0.5);
+    margin: 5% 20% 5% 20%;
+    border-radius: 2%;
+    padding: 5%;
+}
+
+.logolime{ 
+    width: 30%;
+}
+
+header{
+    text-align: center;
+    color: lime;
+}
+nav{
+    background-color: lime;
+    padding: 1%;
+    border-radius: 1%;
+}
+h1{
+    margin: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h2{
+    display: inline-block;
+    color: white;
+    margin-bottom: 1%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+span{
+    display: block;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 1%;
+}
+
+.Carica1{   
+    background-color: orange;
+    border-radius: 5px;
+    width: 30%;
+    height: 30px;
+}
+.Carica2{
+    background-color: red;
+    border-radius: 5px;
+    width: 80%;
+    height: 30px;
+}
+.Carica3{
+    background-color: black;
+    border-radius: 5px;
+    width: 10%;
+    height: 30px;
+}
